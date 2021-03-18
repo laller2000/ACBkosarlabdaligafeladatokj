@@ -1,0 +1,8 @@
+C:\Users\lalle\source\repos\kosar2004\kosar2004\bin\Debug\eredmenyek.csv
+C:\Users\lalle\source\repos\kosar2004\kosar2004\bin\Debug\kosar2004.exe.config
+C:\Users\lalle\source\repos\kosar2004\kosar2004\bin\Debug\kosar2004.exe
+C:\Users\lalle\source\repos\kosar2004\kosar2004\bin\Debug\kosar2004.pdb
+C:\Users\lalle\source\repos\kosar2004\kosar2004\obj\Debug\kosar2004.csprojAssemblyReference.cache
+C:\Users\lalle\source\repos\kosar2004\kosar2004\obj\Debug\kosar2004.csproj.CoreCompileInputs.cache
+C:\Users\lalle\source\repos\kosar2004\kosar2004\obj\Debug\kosar2004.exe
+C:\Users\lalle\source\repos\kosar2004\kosar2004\obj\Debug\kosar2004.pdb
